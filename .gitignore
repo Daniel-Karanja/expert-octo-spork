@@ -1,0 +1,8 @@
+# i want to ignore a folder
+logs/
+
+# ignore all files that end with .key
+*.key
+
+# ignore a specific file.
+ignore.txt
